@@ -1,0 +1,1 @@
+iex "& { $(https://raw.githubusercontent.com/joshphillipssr/Public-Scripts/refs/heads/main/pswu.ps1) }"
